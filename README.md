@@ -1,4 +1,4 @@
-<h1 align="center">🚀 SpamSmS Tool 🚀</h1>
+<h1 align="center">🚀 SpamSmS 🚀</h1>
 <em><h5 align="center">(Language: Python, Shell)</h5></em>
   
 <p align="center"> Tool Chỉ Sử Dụng Nhằm Mục Đích Vui Vẻ Vui Lòng Không Sử Dụng Với Mục Đích Xấu.</p>
