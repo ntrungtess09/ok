@@ -3,7 +3,7 @@
   
 <p align="center"> Tool Chỉ Sử Dụng Nhằm Mục Đích Vui Vẻ Vui Lòng Không Sử Dụng Với Mục Đích Xấu.</p>
 
-<p align="center"><img src="https://i.imgur.com/slbFTPZ.jpeg" width="600" height="200" alt="Script"></p>
+<p align="center"><img src="https://i.imgur.com/c9nTPBF.jpg" width="600" height="200" alt="Script"></p>
 
 # Cách Sử Dụng
 
