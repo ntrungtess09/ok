@@ -1,22 +1,25 @@
-<h1 align="center">🚀 SpamSmS 🚀</h1>
-<em><h5 align="center">(Language: Python, Shell)</h5></em>
-  
-<p align="center"> Tool Chỉ Sử Dụng Nhằm Mục Đích Vui Vẻ Vui Lòng Không Sử Dụng Với Mục Đích Xấu.</p>
+# Digital Storm
 
-<p align="center"><img src="https://i.imgur.com/c9nTPBF.jpg" width="600" height="200" alt="Script"></p>
+![img](https://raw.githubusercontent.com/mr-sami-x/Digital-Storm/main/photo_2022-09-14_02-12-55.jpg)
 
-# Cách Sử Dụng
+Come on, a tool that exploits the vulnerability "cve2014-3704" and uploads files to the site
 
-* Vào CH Play Hoặc Appstore Tải Google Cloud Để Chạy Tool Nhé!
-* Vào Google Cloud Nhập Từng Lệnh.
-* sudo apt install git
-* sudo apt install python
-* git clone https://github.com/nguyenthebao2009/SpamSMS
-* cd SpamSMS
-* python spamsms.py
+This unique software was used to facilitate penetration operations for Arab hackers to carry out attacks on the occupied Zionist entity.
 
-# Contact Me
+This tool has been programmed by Yemeni hands
 
-* Email: n.thebao999@gmail.com
+# How to install :
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nguyenthebao2009/SpamSMShit-counter&count_bg=%230BD4FF&title_bg=%23525050&icon=github.svg&icon_color=%23000000&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+```
+$_ pkg install git
+$_ pkg install python 
+$_ https://github.com/mr-sami-x/Digital-Storm
+$_ cd Digital-Storm
+$_ chmod +x Digital-Storm
+$_ chmod +x ye.py
+$_ python ye.py
+```
+
+
+### Video explanation of the tool
+[link here video](https://youtu.be/lnsbyOcL48c)
